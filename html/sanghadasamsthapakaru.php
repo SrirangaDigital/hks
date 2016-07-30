@@ -38,10 +38,11 @@ include ('includes/header_inner.php');
     <div class="hovereffect">
       <img src="image/ss/sitaramaya.jpg"  alt="" class="img-circle">
       <div class="overlay">
-        <h2>ಸಂಘದ ಪ್ರಥಮ ಅಧ್ಯಕ್ಷರು <br/><br/> ಶ್ರೀ ಎಸ್. ಸೀತಾರಾಮಯ್ಯನವರು</h2>
+        <h2> ಶ್ರೀ ಎಸ್. ಸೀತಾರಾಮಯ್ಯನವರು</h2>
 		<a <button type="button" class="info" data-toggle="modal" data-target="#myModal">Know More</button></a>
       </div>
     </div>
+   <p> ಶ್ರೀ ಎಸ್. ಸೀತಾರಾಮಯ್ಯನವರು</p>
   </div>
 
   <!-- Modal -->
@@ -75,12 +76,15 @@ include ('includes/header_inner.php');
     <div class="hovereffect">
       <img src="image/ss/krishnarayaru.jpg"  alt="" class="img-circle">
       <div class="overlay">
-        <h2>ಸಂಘದ ಪ್ರಥಮ ಉಪಾಧ್ಯಕ್ಷರು <br/><br/>
+        <h2>
 		ಶ್ರೀ ಎ. ಕೃಷ್ಣರಾಯರು
        </h2>
 		<a <button type="button" class="info" data-toggle="modal" data-target="#myModal1">Know More</button></a>
       </div>
     </div>
+	 <p>
+		ಶ್ರೀ ಎ. ಕೃಷ್ಣರಾಯರು
+       </p>
   </div>
 
  <!-- Modal -->
@@ -110,12 +114,15 @@ include ('includes/header_inner.php');
     <div class="hovereffect">
       <img src="image/ss/narasimhaya.jpg"  alt="" class="img-circle">
       <div class="overlay">
-        <h2>ಸಂಘದ ಪ್ರಥಮ ಕಾರ್ಯದರ್ಶಿಗಳು<br/><br/>
+        <h2>
 			ಶ್ರೀ ಸಿ. ನರಸಿಂಹಯ್ಯನವರು
        </h2>
 		<a <button type="button" class="info" data-toggle="modal" data-target="#myModal2">Know More</button></a>
       </div>
     </div>
+    <p>
+			ಶ್ರೀ ಸಿ. ನರಸಿಂಹಯ್ಯನವರು
+       </p>
   </div>
 
  <!-- Modal -->
@@ -143,7 +150,11 @@ include ('includes/header_inner.php');
   </div>
 
 
-
+	<div class="col-sm-12">
+			<div class="page-header">
+				<h3>  ಸಂಘಕ್ಕಾಗಿ ಶ್ರಮಿಸಿದವರು</h3>
+			</div>
+		</div>
 
 
 
@@ -151,12 +162,13 @@ include ('includes/header_inner.php');
     <div class="hovereffect">
       <img src="image/ss/ghante_krinsanaswamy.jpg"  alt="" class="img-circle">
       <div class="overlay">
-        <h2>ಸಂಸ್ಥಾಪಕರು<br/><br/>
-			ಶ್ರೀ ಘಂಟೆ ಕೃಷ್ಣಸ್ವಾಮಿ
+        <h2>ಶ್ರೀ ಘಂಟೆ ಕೃಷ್ಣಸ್ವಾಮಿ
        </h2>
 		<a <button type="button" class="info" data-toggle="modal" data-target="#myModal3">Know More</button></a>
       </div>
     </div>
+     <p>ಶ್ರೀ ಘಂಟೆ ಕೃಷ್ಣಸ್ವಾಮಿ
+       </p>
   </div>
 
 
@@ -188,12 +200,15 @@ include ('includes/header_inner.php');
     <div class="hovereffect">
       <img src="image/ss/gangadhar.jpg"  alt="" class="img-circle">
       <div class="overlay">
-        <h2>ಸಂಸ್ಥಾಪಕರು<br/><br/>
+        <h2>
 			ಶ್ರೀ ಗಂಗಾಧರ ಶಾಸ್ತ್ರಿ 
        </h2>
 		<a <button type="button" class="info" data-toggle="modal" data-target="#myModal4">Know More</button></a>
       </div>
     </div>
+      <p>
+			ಶ್ರೀ ಗಂಗಾಧರ ಶಾಸ್ತ್ರಿ 
+       </p>
   </div>
 
  <!-- Modal -->
@@ -225,12 +240,14 @@ include ('includes/header_inner.php');
 	<div class="hovereffect">
 		<img src="image/ss/narayanarao.jpg"  alt="" class="img-circle">
 			<div class="overlay">
-				<h2>ಸಂಸ್ಥಾಪಕರು<br/><br/>
+				<h2>
 					ಶ್ರೀ ಕೆ ನಾರಾಯಣ ರಾವ್
 				</h2>
 				<a <button type="button" class="info" data-toggle="modal" data-target="#myModal5">Know More</button></a>
 			</div>
 	</div>
+	<p>	ಶ್ರೀ ಕೆ ನಾರಾಯಣ ರಾವ್
+				</p>
 </div>
 
  <!-- Modal -->
@@ -262,12 +279,14 @@ include ('includes/header_inner.php');
 	<div class="hovereffect">
 		<img src="image/ss/001.jpg"  alt="" class="img-circle">
 			<div class="overlay">
-				<h2>ಸಂಸ್ಥಾಪಕರು<br/><br/>
+				<h2>
 				ಎಸ್.ರಾಮಸ್ವಾಮಿ ಶರ್ಮ
 				</h2>
 				<a <button type="button" class="info" data-toggle="modal" data-target="#myModal6">Know More</button></a>
 			</div>
 	</div>
+	<p>	ಎಸ್.ರಾಮಸ್ವಾಮಿ ಶರ್ಮ
+				</p>
 </div>
 
  <!-- Modal -->
@@ -300,12 +319,14 @@ include ('includes/header_inner.php');
 	<div class="hovereffect">
 		<img src="image/ss/002.jpg"  alt="" class="img-circle">
 			<div class="overlay">
-				<h2>ಸಂಸ್ಥಾಪಕರು<br/><br/>
+				<h2>
 				ಗೋಪಾಲಕೃಷ್ಣ ಶಾಸ್ತ್ರಿಗಳು
 				</h2>
 				<a <button type="button" class="info" data-toggle="modal" data-target="#myModal7">Know More</button></a>
 			</div>
 	</div>
+	<p>	ಗೋಪಾಲಕೃಷ್ಣ ಶಾಸ್ತ್ರಿಗಳು
+				</p>
 </div>
 
  <!-- Modal -->
@@ -336,12 +357,15 @@ include ('includes/header_inner.php');
 	<div class="hovereffect">
 		<img src="image/ss/003.jpg"  alt="" class="img-circle">
 			<div class="overlay">
-				<h2>ಸಂಸ್ಥಾಪಕರು<br/><br/>
+				<h2>
 				ಕಾನಕಾನ ಹಳ್ಳಿ ನಾರಾಯಣಶಾಸ್ತ್ರಿಗಳು
 				</h2>
 				<a <button type="button" class="info" data-toggle="modal" data-target="#myModal8">Know More</button></a>
 			</div>
 	</div>
+	<p>
+				ಕಾನಕಾನ ಹಳ್ಳಿ ನಾರಾಯಣಶಾಸ್ತ್ರಿಗಳು
+				</p>
 </div>
 
  <!-- Modal -->
@@ -375,12 +399,15 @@ include ('includes/header_inner.php');
 	<div class="hovereffect">
 		<img src="image/ss/004.jpg"  alt="" class="img-circle">
 			<div class="overlay">
-				<h2>ಸಂಸ್ಥಾಪಕರು<br/><br/>
-				ಡಾ ಹೆಚ್ ಎಲ್ ಹರಿಯಪ್ಪ
+				<h2>
+				ಡಾ. ಹೆಚ್ ಎಲ್ ಹರಿಯಪ್ಪ
 				</h2>
 				<a <button type="button" class="info" data-toggle="modal" data-target="#myModal9">Know More</button></a>
 			</div>
 	</div>
+	<p>
+				ಡಾ. ಹೆಚ್ ಎಲ್ ಹರಿಯಪ್ಪ
+				</p>
 </div>
 
  <!-- Modal -->
@@ -411,12 +438,15 @@ include ('includes/header_inner.php');
 	<div class="hovereffect">
 		<img src="image/ss/005.jpg"  alt="" class="img-circle">
 			<div class="overlay">
-				<h2>ಸಂಸ್ಥಾಪಕರು<br/><br/>
+				<h2>
 				ಜಿ.ಆರ್.ರಾಮಯ್ಯ
 				</h2>
 				<a <button type="button" class="info" data-toggle="modal" data-target="#myModal10">Know More</button></a>
 			</div>
 	</div>
+	<p>
+				ಜಿ.ಆರ್.ರಾಮಯ್ಯ
+				</p>
 </div>
   
  <!-- Modal -->
@@ -448,7 +478,44 @@ include ('includes/header_inner.php');
   </div> 
   
   
-  
+  <div class="col-sm-4">
+	<div class="hovereffect">
+		<img src="image/ss/tnarayana.jpg"  alt="" class="img-circle">
+			<div class="overlay">
+				<h2>
+				ಟಿ. ನಾರಾಯಣ
+				</h2>
+				<a <button type="button" class="info" data-toggle="modal" data-target="#myModal11">Know More</button></a>
+			</div>
+	</div>
+	<p>
+				ಟಿ. ನಾರಾಯಣ
+				</p>
+</div>
+
+ <!-- Modal -->
+  <div class="modal fade" id="myModal11" role="dialog">
+    <div class="modal-dialog">
+    
+      <!-- Modal content-->
+      <div class="modal-content">
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal">&times;</button>
+          <h4 class="modal-title">ಟಿ. ನಾರಾಯಣ</h4>
+        </div>
+        <div class="modal-body">
+        <p class="text-justify">ಶ್ರೀಯುತರು ಸಂಘದ ವಿದ್ಯಾರ್ಥಿನಿಲಯದ ಸ್ಥಾಪನೆಗೆ ಮೂಲ ಕಾರಣರು, ಇದುವರೆವಿಗಿನ  ಅತ್ಯಂತ ಜನಪ್ರಿಯ ಮತ್ತು ನಿಲಯದಲ್ಲಿ ವಿದ್ಯಾರ್ಥಿಗಳಿಗೆ ಶಿಸ್ತು ಹಾಗೂ ಸಂಪೂರ್ಣ ವ್ಯಕ್ತಿತ್ವದ ಬೆಳವಣಿಗೆಗೆ ಶ್ರಮಿಸಿದ ಏಕೈಕ “ಹಾಸ್ಟೆಲ್ ಸುಪರಿಂಟೆಂಡೆಂಟ್” ಎಂದರೆ ತಪ್ಪಾಗಲಾರದು. ಬಡ ವಿದ್ಯಾರ್ಥಿಗಳನ್ನು ಹುಡುಕಿ ಅವರಿಗೆ ವಿಧ್ಯಾಭ್ಯಾಸಕ್ಕೆ ಇರುವ ಅಡಚಣೆಗಳನ್ನು ನಿವಾರಿಸಿ, ಅವರು ಜೀವನದಲ್ಲಿ ಒಂದು ಘಟ್ಟ  ತಲುಪುವವರೆಗೂ ಅವರಿಗೆ ಬೇಕಾದ ಎಲ್ಲಾ ಸಹಾಯವನ್ನು ಮತ್ತು ಮಾರ್ಗದರ್ಶನವನ್ನು ಒದಗಿಸುತ್ತಿದ್ದರು. ಮೈಸೂರಿನ ವಿದ್ಯಾರ್ಥಿನಿಲಯ 1943 ಪ್ರಾರಂಭವಾದಾಗಿನಿಂದ ಸುಮಾರು 7<i>-</i>8 ವರ್ಷ ಹಾಗೂ ಬೆಂಗಳೂರಿನ ವಿದ್ಯಾರ್ಥಿನಿಲಯದಲ್ಲೂ  ಕೆಲಕಾಲ “ವಾರ್ಡನ್” ಆಗಿದ್ದರು. ಅತ್ಯಂತ ಶಿಸ್ತು ಪ್ರಿಯರು. ಬೆಳಗಿನ ಜಾವ ವಿದ್ಯಾರ್ಥಿಗಳು ಏಳುವುದರಿಂದ ಹಿಡಿದು, ಸ್ನಾನ-ಸಂಧ್ಯಾವಂದನೆ, ವಿಧ್ಯಾಭ್ಯಾಸದ ಪ್ರಗತಿ, ಮನೆಯ ಸುಖ ದುಖಃಗಳೂ ಸೇರಿದಂತೆ ಸಂಪೂರ್ಣ ವಿಚಾರಣೆಯಷ್ಟೇ ಅಲ್ಲ, ವಿದ್ಯಾರ್ಥಿಗಳಿಗೆ ಹಣದ ಅಡಚಣೆಯಿದ್ದಲ್ಲಿ ತಮ್ಮ ನೆಚ್ಚಿನ ಪತ್ರಿಕೆಯಾದ “ಮೈಸೂರು ಪತ್ರಿಕೆ”ಯ ಡಿಸ್ಟ್ರಿಬ್ಯೂಷನ್ ಕೆಲಸವನ್ನು ಕೊಡಿಸಿ ವಿದ್ಯಾಭ್ಯಾಸಕ್ಕೆ ಅನುಕೂಲ  ಮಾಡಿಕೊಡುತ್ತಿದ್ದರು. ಸಂಘದ ವಿದ್ಯಾರ್ಥಿನಿಲಯಕ್ಕೆ ಸರಕಾರದಿಂದ ಮೈಸೂರು ಹಾಗೂ ಬೆಂಗಳೂರಿನಲ್ಲಿ ನಿವೇಶನ ದೊರಕಿಸಿಕೊಡುವಲ್ಲಿ ಇವರು ಮಹತ್ತರ ಪಾತ್ರವಹಿಸಿದ್ದರು. ಎಷ್ಟೇ ಕಷ್ಟ ಬಂದರೂ ಛಲ ಬಿಡದ ತ್ರಿವಿಕ್ರಮನಂತೆ “ಮೈಸೂರು ಪತ್ರಿಕೆ”ಯನ್ನು ಬೆಳೆಸಿ ಜನಪ್ರಿಯವಾಗುವಂತೆ ಶ್ರಮಿಸಿದ ಶ್ರೇಯಸ್ಸು  ಇವರದು. ಇವರ ಸುಪುತ್ರರಾದ ಶ್ರೀ.ಟಿ.ವೆಂಕಟರಾಂ ಪತ್ರಿಕೆಯನ್ನು ಇಂದಿಗೂ ನಡೆಸಿಕೊಂಡು ಬರುತ್ತಿದ್ದಾರೆ. ಅವರಿಗೂ ಸಂಘದ ಮೇಲೆ ಅಷ್ಟೇ ಪ್ರೇಮ ಹಾಗಾಗಿ ಹಲವಾರು ವರ್ಷದಿಂದ ಸಂಘದ ಕಾರ್ಯಕಾರಿ ಸಮಿತಿ ಸದಸ್ಯರಾಗಿ ಸೇವೆ ಸಲ್ಲಿಸುತ್ತಿದ್ದಾರೆ.</p>
+
+
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+        </div>
+      </div>
+      
+    </div>
+  </div>
+
   
   
 </div>

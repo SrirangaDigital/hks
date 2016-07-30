@@ -18,7 +18,6 @@
 </head>
 
 <body>
-
 <!-- Navigation-->
 <?php
 include ('includes/header_inner.php');
@@ -30,29 +29,143 @@ include ('includes/header_inner.php');
 				<h2>ಆಡಳಿತ ವರ್ಗ</h2>
 			</div>
 		</div>
+			<div class="page-header">
+				<h3 class="center">ಈವರಗಿನ ಅಧ್ಯಕ್ಷರು</h3>
+			</div>
 		<div class="col-sm-12">
-			<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="headingOne">
-      <h4 class="panel-title">
-        <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-          <h4>2016<i>-</i>17 ಸಾಲಿನ ಕಾರ್ಯ ಸಮಿತಿಯ ಸದಸ್ಯರ ವಿವರಗಳು </h4>
-        </a>
-      </h4>
-    </div>
-    <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
-      <div class="panel-body">
-       <div class="row">
+		<div class="col-sm-6 col-md-3">
+			<div class="center">
+			  <img src="image/2016_17/lakshminarayana.jpg" alt="" class="img-circle">
+			  <div class="caption center">
+				<h3>ಎಂ. ಲಕ್ಷ್ಮೀ ನಾರಾಯಣ</h3>
+				<p>14<i>-</i>08<i>-</i>1943 <i>-</i> 29<i>-</i>09<i>-</i>1944</p>
+			  </div>
+			</div>
+		  </div>
+		  
 		  <div class="col-sm-6 col-md-3">
+			<div class="center">
+			  <img src="" alt="" class="img-circle">
+			  <div class="caption center">
+				<h3>ಜಿ. ಕೃಷ್ಣಸ್ವಾಮಿ</h3>
+				<p>29<i>-</i>09<i>-</i>1944 <i>-</i> 22<i>-</i>03<i>-</i>1959</p>
+			  </div>
+			</div>
+		  </div>
+		
+		<div class="col-sm-6 col-md-3">
+			<div class="center">
+			  <img src="image/2016_17/ramarao.jpg" alt="" class="img-circle">
+			  <div class="caption center">
+				<h3>ಟಿ. ರಾಮರಾವ್</h3>
+				<p>22<i>-</i>03<i>-</i>1959 <i>-</i> 19<i>-</i>02<i>-</i>1962</p>
+			  </div>
+			</div>
+		  </div>
+		  
+		   <div class="col-sm-6 col-md-3">
+			<div class="center">
+			  <img src="" alt="" class="img-circle">
+			  <div class="caption center">
+				<h3>ಎಸ್. ಸಂಗಯ್ಯ</h3>
+				<p>19<i>-</i>02<i>-</i>1962 <i>-</i> 12<i>-</i>11<i>-</i>1967</p>
+			  </div>
+			</div>
+		  </div>
+		  
+		   <div class="col-sm-6 col-md-3">
+			<div class="center">
+			  <img src="image/2016_17/sitaramaya.jpg" alt="" class="img-circle">
+			  <div class="caption center">
+				<h3>ಎಸ್. ಸೀತಾರಾಮಯ್ಯ</h3>
+				<p>12<i>-</i>11<i>-</i>1967 <i>-</i> 18<i>-</i>07<i>-</i>1971</p>
+			  </div>
+			</div>
+		  </div>
+		  
+		  <div class="col-sm-6 col-md-3">
+			<div class="center">
+			  <img src="" alt="" class="img-circle">
+			  <div class="caption center">
+				<h3>ವಿ. ನರಸಿಂಹಮೂರ್ತಿ</h3>
+				<p>18<i>-</i>07<i>-</i>1971 <i>-</i> 24<i>-</i>02<i>-</i>1974</p>
+			  </div>
+			</div>
+		  </div>
+		  
+		  <div class="col-sm-6 col-md-3">
+			<div class="center">
+			  <img src="image/2016_17/suryanarayanarao.jpg" alt="" class="img-circle">
+			  <div class="caption center">
+				<h3>ಕೆ. ಎಸ್. ಸೂರ್ಯನಾರಾಯಣ ರಾವ್</h3>
+				<p>24<i>-</i>02<i>-</i>1974 <i>-</i> 15<i>-</i>05<i>-</i>1997</p>
+			  </div>
+			</div>
+		  </div>
+		  
+		  <div class="col-sm-6 col-md-3">
+			<div class="center">
+			  <img src="" alt="" class="img-circle">
+			  <div class="caption center">
+				<h3>ಬಿ. ಎಸ್. ಸತ್ಯನಾರಾಯಣ</h3>
+				<p>15<i>-</i>05<i>-</i>1997 <i>-</i> 27<i>-</i>05<i>-</i>2001</p>
+			  </div>
+			</div>
+		  </div>		  
+	</div>
+		
+		  <div class="col-sm-6 col-md-3">
+			<div class="center">
+			  <img src="image/2016_17/manjunath.jpg" alt="" class="img-circle">
+			  <div class="caption center">
+				<h3>ಎಂ ಮಂಜುನಾಥ</h3>
+				<p>27<i>-</i>05<i>-</i>2001 <i>-</i> 17<i>-</i>04<i>-</i>2003</p>
+			  </div>
+			</div>
+		  </div>
+		  
+		  <div class="col-sm-6 col-md-3">
+			<div class="center">
+			  <img src="image/2016_17/krishnaswamy.jpg" alt="" class="img-circle">
+			  <div class="caption center">
+				<h3>ಎಂ. ಎಲ್. ಕೃಷ್ಣಸ್ವಾಮಿ</h3>
+				<p>01<i>-</i>02<i>-</i>2004 <i>-</i> 15<i>-</i>12<i>-</i>2012</p>
+			  </div>
+			</div>
+		  </div>
+			
+			
+	
+
+			 <div class="col-sm-12">
+				 <hr>
+			 <h3 class="center">ಪ್ರಸುತ್ತ ಕಾರ್ಯಕಾರಿ ಸಮಿತಿಯ ಸದಸ್ಯರ ವಿವರಗಳು </h3>
+			<div class="page-header">
+				<h4>ಆಡಳಿತ ಮಂಡಳಿ</h4>
+			</div>
+			</div>
+		<div class="col-sm-12">
+		<div class="col-sm-6 col-md-3">
+			<div class="center">
+			  <img src="image/hoysala_shreshtaru/s-l-bhyrappa.png"  alt="" class="img-circle">
+			  <div class="caption center">
+				<h3>ಡಾ. ಎಸ್. ಎಲ್ ಭೈರಪ್ಪ</h3>
+				<p>ಧರ್ಮದರ್ಶಿಗಳು</p>
+			  </div>
+			</div>
+		  </div>
+		  
+		   <div class="col-sm-6 col-md-3">
 			<div class="center">
 			  <img src="image/2016_17/IMG_1196.JPG"  alt="" class="img-circle">
 			  <div class="caption center">
-				<h3>ಪಿ. ವಿ. ಭಾರಧ್ವಜ್</h3>
+				<h3>ಪಿ. ವಿ. ಭಾರಧ್ವಾಜ್</h3>
 				<p>ಅಧ್ಯಕ್ಷರು </p>
 			  </div>
 			</div>
 		  </div>
-		<div class="col-sm-6 col-md-3">
+		  
+		  <div class="col-sm-6 col-md-3">
 			<div class="center">
 			  <img src="image/2016_17/IMG_1194.JPG"  alt="" class="img-circle">
 			  <div class="caption center">
@@ -61,16 +174,8 @@ include ('includes/header_inner.php');
 			  </div>
 			</div>
 		  </div>
-			<div class="col-sm-6 col-md-3">
-			<div class="center">
-			  <img src="image/2016_17/IMG_1195.JPG" alt="" class="img-circle">
-			  <div class="caption center">
-				<h3>ಸುಬ್ರಹ್ಮಣ್ಯ</h3>
-				<p>ಖಜಾಂಚಿ </p>
-			  </div>
-			</div>
-		  </div>
-			<div class="col-sm-6 col-md-3">
+		
+		<div class="col-sm-6 col-md-3">
 			<div class="center">
 			  <img src="image/2016_17/IMG_1186.JPG"  alt="" class="img-circle">
 			  <div class="caption center">
@@ -79,98 +184,189 @@ include ('includes/header_inner.php');
 			  </div>
 			</div>
 		  </div>
-
+	</div>
+		<div class="col-sm-12">
+		<div class="col-sm-6 col-md-3">
+			<div class="center">
+			  <img src="image/2016_17/IMG_1195.JPG" alt="" class="img-circle">
+			  <div class="caption center">
+				<h3>ಟಿ. ಸುಬ್ಬರಾಮಯ್ಯ</h3>
+				<p>ಖಜಾಂಚಿ </p>
+			  </div>
+			</div>
+		  </div>
+		  
+		    <div class="col-sm-6 col-md-3">
+			<div class="center">
+			  <img src="image/2016_17/srinidhi.jpg" alt="" class="img-circle">
+			  <div class="caption center">
+				<h3>ಪಿ. ಶ್ರೀನಿಧಿ</h3>
+				<p>ಸಹ ಕಾರ್ಯದರ್ಶಿ</p>
+			  </div>
+			</div>
+		  </div>
+	</div>
+	<div class="col-sm-12">
+			<div class="page-header">
+				<h4>ಸಮಿತಿಯ ಸದಸ್ಯರು</h4>
+			</div>
+		</div>
+		<div class="col-sm-12">
 		<div class="col-sm-6 col-md-3">
 			<div class="center">
 			  <img src="image/2016_17/IMG_1188.JPG"  alt="" class="img-circle">
 			  <div class="caption center">
-				<h3>...</h3>
-				<p>ಸಮಿತಿಯ ಸದಸ್ಯೆ</p>
+				<h3>ಕೆ. ಅನುಪಮ ಅನಂತಸ್ವಾಮಿ</h3>
 			  </div>
 			</div>
 		  </div>
-		<div class="col-sm-6 col-md-3">
+		  
+		  <div class="col-sm-6 col-md-3">
 			<div class="center">
 			  <img src="image/2016_17/IMG_1189.JPG"  alt="" class="img-circle">
 			  <div class="caption center">
-				<h3>...</h3>
-				<p>ಸಮಿತಿಯ ಸದಸ್ಯೆ</p>
+				<h3>ಸಾವಿತ್ರಿ ಪ್ರಭಾಕರ್</h3>
 			  </div>
 			</div>
 		  </div>
-			<div class="col-sm-6 col-md-3">
+		
+		<div class="col-sm-6 col-md-3">
 			<div class="center">
 			  <img src="image/2016_17/IMG_1190.JPG" alt="" class="img-circle">
 			  <div class="caption center">
-				<h3>...</h3>
-				<p>ಸಮಿತಿಯ ಸದಸ್ಯೆ</p>
-
+				<h3>ಸಂಧ್ಯ ನಂದಕುಮಾರ್</h3>
 			  </div>
 			</div>
 		  </div>
-			<div class="col-sm-6 col-md-3">
+		
+		<div class="col-sm-6 col-md-3">
 			<div class="center">
 			  <img src="image/2016_17/IMG_1191.JPG"  alt="" class="img-circle">
 			  <div class="caption center">
-				<h3>...</h3>
-				<p>ಸಮಿತಿಯ ಸದಸ್ಯ</p>
+				<h3>ಎನ್. ಎಸ್. ರವಿ</h3>
 			  </div>
 			</div>
 		  </div>
-<div class="col-sm-6 col-md-3">
+	</div>
+	<div class="col-sm-12">
+		<div class="col-sm-6 col-md-3">
 			<div class="center">
 			  <img src="image/2016_17/IMG_1192.JPG"  alt="" class="img-circle">
 			  <div class="caption center">
-				<h3>...</h3>
-				<p>ಸಮಿತಿಯ ಸದಸ್ಯೆ</p>
+				<h3>ಲಲಿತ ಸುಂದರೇಶನ್</h3>
 			  </div>
 			</div>
 		  </div>
-		<div class="col-sm-6 col-md-3">
+		  
+		  <div class="col-sm-6 col-md-3">
 			<div class="center">
 			  <img src="image/2016_17/IMG_1193.JPG" alt="" class="img-circle">
 			  <div class="caption center">
-				<h3>...</h3>
-				<p>ಸಮಿತಿಯ ಸದಸ್ಯೆ</p>
+				<h3>ಕಲ್ಪನ ಬಾಬು</h3>
 			  </div>
 			</div>
 		  </div>
+		
+		  <div class="col-sm-6 col-md-3">
+			<div class="center">
+			  <img src="image/2016_17/lakshminarasimha.jpg" alt="" class="img-circle">
+			  <div class="caption center">
+				<h3>ಎನ್. ಲಕ್ಷ್ಮೀ ನರಸಿಂಹ</h3>
+			  </div>
+			</div>
+		  </div>
+		  
+		  <div class="col-sm-6 col-md-3">
+			<div class="center">
+			  <img src="image/2016_17/nanjundaswamy.jpg" alt="" class="img-circle">
+			  <div class="caption center">
+				<h3>ನಂಜುಂಡ ಸ್ವಾಮಿ ಎಂ.</h3>
+			  </div>
+			</div>
+		  </div>
+</div>
+		<div class="col-sm-12">
+		<div class="col-sm-6 col-md-3">
+			<div class="center">
+			  <img src="" alt="" class="img-circle">
+			  <div class="caption center">
+				<h3>ಎಸ್. ಗೋವಿಂದ</h3>
+			  </div>
+			</div>
+		  </div>
+		  
+		  <div class="col-sm-6 col-md-3">
+			<div class="center">
+			  <img src="image/2016_17/nataraj.jpg" alt="" class="img-circle">
+			  <div class="caption center">
+				<h3>ನಟರಾಜ್</h3>
+			  </div>
+			</div>
+		  </div>	
+		
+		<div class="col-sm-6 col-md-3">
+			<div class="center">
+			  <img src="image/2016_17/dnvenkatesh.jpg" alt="" class="img-circle">
+			  <div class="caption center">
+				<h3>ವೆಂಕಟೇಶ್ ಮೂರ್ತಿ ಡಿ. ಎನ್.</h3>
+			  </div>
+			</div>
+		  </div>
+		
+		  <div class="col-sm-6 col-md-3">
+			<div class="center">
+			  <img src="image/2016_17/yogsnarasimha.jpg" alt="" class="img-circle">
+			  <div class="caption center">
+				<h3>ಯೋಗ ನರಸಿಂಹ</h3>
+			  </div>
+			</div>
+		  </div>
+	</div>
+		<div class="col-sm-12">
+					<div class="col-sm-6 col-md-3">
+			<div class="center">
+			  <img src="image/2016_17/skrishna.jpg" alt="" class="img-circle">
+			  <div class="caption center">
+				<h3>ಎಸ್ ಕೃಷ್ಣ ಮೂರ್ತಿ</h3>
+			  </div>
+			</div>
+		  </div>
+		  
+		  <div class="col-sm-6 col-md-3">
+			<div class="center">
+			  <img src="image/2016_17/krishnaswamy.jpg" alt="" class="img-circle">
+			  <div class="caption center">
+				<h3>ಎಂ ಎಲ್ ಕೃಷ್ಣ ಸ್ವಾಮಿ</h3>
+			  </div>
+			</div>
+		  </div>
+ </div>
+			
+			
+		
+		
+		
+		  
+		  
+		  
+		  
+		   
+		  
+		   
+		  
+		
+			
+
+		  
+		  
+			
+			  
 			
 		</div>
-      </div>
-    </div>
-  </div>
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="headingTwo">
-      <h4 class="panel-title">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-          <h4>ಸಾಲಿನ ಕಾರ್ಯ ಸಮಿತಿಯ ಸದಸ್ಯರ ವಿವರಗಳು </h4>
-        </a>
-      </h4>
-    </div>
-    <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
-      <div class="panel-body">
-        Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
-      </div>
-    </div>
-  </div>
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="headingThree">
-      <h4 class="panel-title">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-          <h4>ಸಾಲಿನ ಕಾರ್ಯ ಸಮಿತಿಯ ಸದಸ್ಯರ ವಿವರಗಳು </h4>
-        </a>
-      </h4>
-    </div>
-    <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
-      <div class="panel-body">
-        Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
-      </div>
-    </div>
-  </div>
-</div>
 
-		</div>
+		
+	
+	
 	</div>
 
 

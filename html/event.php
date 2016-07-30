@@ -32,21 +32,19 @@ include ('includes/header_inner.php');
 		</div>
 		<div class="col-sm-12">
 		<blockquote>
-		  <a href=""><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p></a>	
-		  <footer>Someone famous in <cite title="Source Title">Source Title</cite></footer>
+		  <a href="shanar_janti.php"><p>14<i>-</i>5<i>-</i>2016 ಶಂಕರ ಜಯಂತಿ</p></a>	
+		  <footer>ನವೀಕೃತ ಹೊಯ್ಸಳ ಭವನ</footer>
 		</blockquote>
 		<blockquote>
-		  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-		  <footer>Someone famous in <cite title="Source Title">Source Title</cite></footer>
+		 <a href="cvsy.php" <p>19<i>-</i>6<i>-</i>2016 ಚಾಮುಂಡಿ ವೃಕ್ಷ ಸಂವರ್ದಿನಿ ಯೋಜನ</p></a>
+		  <footer>ಚಾಮುಂಡಿ ಬೆಟ್ಟ</footer>
 		</blockquote>
 		<blockquote>
-		  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-		  <footer>Someone famous in <cite title="Source Title">Source Title</cite></footer> 
+		 <a href="sks.php" <p>24<i>-</i>7<i>-</i>2016 ಸಾಂಸ್ಕೃತಿಕ ಮತ್ತು ಕ್ರೀಡಾ ಸ್ಪರ್ಧೆಗಳು</p></a>
+		  <footer>ಹೊ. ಕ. ಸಂಘ ಮುಖ್ಯ ಕಟ್ಟಡ</footer>
 		</blockquote>
-		<blockquote>
-		  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-		  <footer>Someone famous in <cite title="Source Title">Source Title</cite></footer>
-		</blockquote>
+		
+		
 		</div>
 
 	</div>

@@ -7,7 +7,7 @@
 			</div>
 			
 <script type="text/javascript" src="http://arrow.scrolltotop.com/arrow71.js"></script>
-<noscript>Not seeing a <a href="http://www.scrolltotop.com/">Scroll to Top Button</a>? Go to our FAQ page for more info.</noscript>
+
 
 		</div>
 	</div>

@@ -82,79 +82,36 @@ include ('includes/header_inner.php');
 	</div>
 		<div class="row">
 		<ul class="row">
+
             <li class="col-lg-2 col-md-2 col-sm-3 col-xs-4">
-                <img class="img-responsive" src="image/gallery/photodune-174908-rocking-the-night-away-xs.jpg" alt="">
+                <img class="img-responsive" src="image/gallery/001.jpg" alt="">
             </li>
             <li class="col-lg-2 col-md-2 col-sm-3 col-xs-4">
-                <img class="img-responsive" src="image/gallery/photodune-287182-blah-blah-blah-yellow-road-sign-xs.jpg" alt="">
+                <img class="img-responsive" src="image/gallery/002.jpg" alt="">
             </li>
             <li class="col-lg-2 col-md-2 col-sm-3 col-xs-4">
-                <img class="img-responsive" src="image/gallery/photodune-460760-colors-xs.jpg" alt="">
+                <img class="img-responsive" src="image/gallery/003.jpg" alt="">
             </li>
             <li class="col-lg-2 col-md-2 col-sm-3 col-xs-4">
-                <img class="img-responsive" src="image/gallery/photodune-461673-retro-party-xs.jpg" alt="">
+                <img class="img-responsive" src="image/gallery/004.jpg" alt="">
             </li>
             <li class="col-lg-2 col-md-2 col-sm-3 col-xs-4">
-                <img class="img-responsive" src="image/gallery/photodune-514834-touchscreen-technology-xs.jpg" alt="">
+                <img class="img-responsive" src="image/gallery/005.jpg" alt="">
+            </li>	
+            <li class="col-lg-2 col-md-2 col-sm-3 col-xs-4">
+                <img class="img-responsive" src="image/gallery/006.jpg" alt="">
             </li>
             <li class="col-lg-2 col-md-2 col-sm-3 col-xs-4">
-                <img class="img-responsive" src="image/gallery/photodune-916206-legal-xs.jpg" alt="">
+                <img class="img-responsive" src="image/gallery/007.jpg" alt="">
             </li>
             <li class="col-lg-2 col-md-2 col-sm-3 col-xs-4">
-                <img class="img-responsive" src="image/gallery/photodune-1062948-nature-xs.jpg" alt="">
+                <img class="img-responsive" src="image/gallery/008.jpg" alt="">
             </li>
             <li class="col-lg-2 col-md-2 col-sm-3 col-xs-4">
-                <img class="img-responsive" src="image/gallery/photodune-1471528-insant-camera-kid-xs.jpg" alt="">
-            </li>
-            <li class="col-lg-2 col-md-2 col-sm-3 col-xs-4">
-                <img class="img-responsive" src="image/gallery/photodune-2255072-relaxed-man-xs.jpg" alt="">
-            </li>
-            <li class="col-lg-2 col-md-2 col-sm-3 col-xs-4">
-                <img class="img-responsive" src="image/gallery/photodune-2360379-colors-xs.jpg" alt="">
-            </li>
-            <li class="col-lg-2 col-md-2 col-sm-3 col-xs-4">
-                <img class="img-responsive" src="image/gallery/photodune-2360571-jump-xs.jpg" alt="">
-            </li>
-            <li class="col-lg-2 col-md-2 col-sm-3 col-xs-4">
-                <img class="img-responsive" src="image/gallery/photodune-2361384-culture-for-business-xs.jpg" alt="">
-            </li>
-            <li class="col-lg-2 col-md-2 col-sm-3 col-xs-4">
-                <img class="img-responsive" src="image/gallery/photodune-2441670-spaghetti-with-tuna-fish-and-parsley-s.jpg" alt="">
-            </li>
-            <li class="col-lg-2 col-md-2 col-sm-3 col-xs-4">
-                <img class="img-responsive" src="image/gallery/photodune-2943363-budget-xs.jpg" alt="">
-            </li>
-            <li class="col-lg-2 col-md-2 col-sm-3 col-xs-4">
-                <img class="img-responsive" src="image/gallery/photodune-3444921-street-art-xs.jpg" alt="">
-            </li>
-            <li class="col-lg-2 col-md-2 col-sm-3 col-xs-4">
-                <img class="img-responsive" src="image/gallery/photodune-3552322-insurance-xs.jpg" alt="">
-            </li>
-            <li class="col-lg-2 col-md-2 col-sm-3 col-xs-4">
-                <img class="img-responsive" src="image/gallery/photodune-3807845-food-s.jpg" alt="">
-            </li>
-            <li class="col-lg-2 col-md-2 col-sm-3 col-xs-4">
-                <img class="img-responsive" src="image/gallery/photodune-3835655-down-office-worker-xs.jpg" alt="">
-            </li>
-            <li class="col-lg-2 col-md-2 col-sm-3 col-xs-4">
-                <img class="img-responsive" src="image/gallery/photodune-4619216-ui-control-knob-regulators-xs.jpg" alt="">
-            </li>
-            <li class="col-lg-2 col-md-2 col-sm-3 col-xs-4">
-                <img class="img-responsive" src="image/gallery/photodune-5771958-health-xs.jpg" alt="">
-            </li>
-            <li class="col-lg-2 col-md-2 col-sm-3 col-xs-4">
-                <img class="img-responsive" src="image/gallery/photodune-268693-businesswoman-using-laptop-outdoors-xs.jpg" alt="">
-            </li>
-            <li class="col-lg-2 col-md-2 col-sm-3 col-xs-4">
-                <img class="img-responsive" src="image/gallery/photodune-352207-search-of-code-s.jpg" alt="">
-            </li>
-            <li class="col-lg-2 col-md-2 col-sm-3 col-xs-4">
-                <img class="img-responsive" src="image/gallery/photodune-247190-secret-email-xs.jpg" alt="">
-            </li>
-            <li class="col-lg-2 col-md-2 col-sm-3 col-xs-4">
-                <img class="img-responsive" src="image/gallery/photodune-682990-online-search-xs.jpg" alt="">
+                <img class="img-responsive" src="image/gallery/009.jpg" alt="">
             </li>
           </ul> 
+	
 </div>
 
   <div class="modal fade" id="myModal" tabindex="-1" role="dialog"  aria-hidden="true">

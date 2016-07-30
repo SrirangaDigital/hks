@@ -79,6 +79,7 @@ include ('includes/header_inner.php');
 						</div>
 					</div>
 				</div>
+				
 			</div>
 		</div>
 	</div>
