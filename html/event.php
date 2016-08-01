@@ -43,6 +43,10 @@ include ('includes/header_inner.php');
 		 <a href="sks.php" <p>24<i>-</i>7<i>-</i>2016 ಸಾಂಸ್ಕೃತಿಕ ಮತ್ತು ಕ್ರೀಡಾ ಸ್ಪರ್ಧೆಗಳು</p></a>
 		  <footer>ಹೊ. ಕ. ಸಂಘ ಮುಖ್ಯ ಕಟ್ಟಡ</footer>
 		</blockquote>
+		<blockquote>
+		 <a href="sks.php" <p>31<i>-</i>7<i>-</i>2016 ಸಂಸ್ಥಾಪಕರ ದಿನಾಚರಣೆ ಹಾಗೂ ಹೊಯ್ಸಳ ಹಬ್ಬ</p></a>
+		  <footer>ಶಾರದ ವಿಳಾಸ ಕಾಲೇಜು ಆವರಣ</footer>
+		</blockquote>
 		
 		
 		</div>

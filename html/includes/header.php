@@ -38,7 +38,7 @@
 									<ul class="dropdown-menu">
 										<li><a href="html/event.php">ಮೈಸೂರು</a></li>
 										<li><a href="">ಬೆಂಗಳೂರು</a></li>
-										<li><a href="">ತುಮಕುರು</a></li>
+										<li><a href="">ತುಮಕೂರು</a></li>
 										<li><a href="">ಹಾಸನ್</a></li>
 										<li><a href="">ಮಂಡ್ಯ</a></li>
 										<li><a href="">ಶಿವಮೊಗ್ಗ</a></li>
