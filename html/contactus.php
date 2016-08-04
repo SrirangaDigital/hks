@@ -4,8 +4,7 @@
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>ಹೊಯ್ಸಳ ಕರ್ನಾಟಕ ಸಂಘ</title>
-<link rel="shortcut icon" href="favicon.ico">
-<link rel="icon" type="image/gif" href="animated_favicon1.gif">
+<link rel="shortcut icon" href="hksicon.ico">
 <!-- Bootstrap css link  -->
 <link href="css/bootstrap.min.css" rel="stylesheet">
 <!-- Custome css link -->
