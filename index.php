@@ -13,12 +13,9 @@
 <!-- Bootsrap Java Script link -->
 <script src="html/js/bootstrap.min.js" type="text/javascript"></script>
 
-
 </head>
 
 <body>
-
-
 <?php
 include ('html/includes/header.php');
 ?>
