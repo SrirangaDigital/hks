@@ -1,20 +1,3 @@
-<!DOCTYPE html>
-<html lang="kn">
-<head>
-<meta charset="utf-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>ಹೊಯ್ಸಳ ಕರ್ನಾಟಕ ಸಂಘ</title>
-<link rel="shortcut icon" href="hksicon.ico">
-<!-- Bootstrap css link  -->
-<link href="css/bootstrap.min.css" rel="stylesheet">
-<!-- Custome css link -->
-<link href="css/sytle.css" rel="stylesheet">
-<script src="js/jquery.min.js"></script>
-<!-- Bootsrap Java Script link -->
-<script src="js/bootstrap.min.js"></script>
-
-
-</head>
 
 <body>
 
@@ -51,4 +34,4 @@ include ('includes/footer.php');
 
 
 </body>
-</html>
+

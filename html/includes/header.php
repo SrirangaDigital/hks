@@ -1,3 +1,20 @@
+<!DOCTYPE html>
+<html lang="kn">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>ಹೊಯ್ಸಳ ಕರ್ನಾಟಕ ಸಂಘ</title>
+<link rel="shortcut icon" href="html/hksicon.ico">
+<!-- Bootstrap css link  -->
+<link href="html/css/bootstrap.min.css" rel="stylesheet">
+<!-- Custome css link -->
+<link href="html/css/sytle.css" rel="stylesheet">
+<script src="html/js/jquery.min.js" type="text/javascript"></script>
+<!-- Bootsrap Java Script link -->
+<script src="html/js/bootstrap.min.js" type="text/javascript"></script>
+
+</head>
+
 		<div class="container">
 			<div class="row">
 				<div class="col-sm-2">
@@ -78,5 +95,5 @@
 </div>
 
 
-
+</html>
 
