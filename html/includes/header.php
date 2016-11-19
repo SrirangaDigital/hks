@@ -56,11 +56,11 @@
 										<li><a href="html/hoysalavani/may.pdf" target="_blank">ಮೇ</a></li>
 										<li><a href="html/hoysalavani/june.pdf"target="_blank">ಜೂನ್</a></li>
 										<li><a href="html/hoysalavani/july.pdf" target="_blank">ಜುಲೈ</a></li>
-										<!--<li><a href="" target="_blank">ಆಗಸ್ಟ್</a></li>
-										<li><a href="" target="_blank">ಸೆಪ್ಟೆಂಬರ್</a></li>
-										<li><a href="" target="_blank">ಅಕ್ಟೋಬರ್</a></li>
-										<li><a href="" target="_blank">ನವೆಂಬರ್</a></li>	
-										<li><a href="" target="_blank">ಡಿಸೆಂಬರ್</a></li>	-->
+										<li><a href="html/hoysalavani/aug.pdf" target="_blank">ಆಗಸ್ಟ್</a></li>
+										<li><a href="html/hoysalavani/sep.pdf" target="_blank">ಸೆಪ್ಟೆಂಬರ್</a></li>
+										<li><a href="html/hoysalavani/oct.pdf" target="_blank">ಅಕ್ಟೋಬರ್</a></li>
+										<li><a href="html/hoysalavani/nov.pdf" target="_blank">ನವೆಂಬರ್</a></li>	
+										<!--<li><a href="" target="_blank">ಡಿಸೆಂಬರ್</a></li>	-->
 									</ul>
 								</li>
 							<li><a href="html/donor.php">ದಾನಿಗಳು</a></li>	

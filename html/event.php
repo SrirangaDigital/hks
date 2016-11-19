@@ -46,7 +46,10 @@ include ('includes/header_inner.php');
 		 <a href="sks.php" <p>31<i>-</i>7<i>-</i>2016 ಸಂಸ್ಥಾಪಕರ ದಿನಾಚರಣೆ ಹಾಗೂ ಹೊಯ್ಸಳ ಹಬ್ಬ</p></a>
 		  <footer>ಶಾರದ ವಿಳಾಸ ಕಾಲೇಜು ಆವರಣ</footer>
 		</blockquote>
-		
+		<blockquote>
+		 <a href="ganapati.php" <p>11<i>-</i>09<i>-</i>2016 ಶ್ರೀ ಮಹಾಗಣಪತಿಯ ಮಂಗಳಾರತಿ ಕಾರ್ಯಕ್ರಮ </p></a>
+		  <footer>ನವೀಕೃತ ಹೊಯ್ಸಳ ಭವನ</footer>
+		</blockquote>
 		
 		</div>
 
