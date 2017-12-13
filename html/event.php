@@ -10,33 +10,43 @@ include ('includes/header_inner.php');
 		<div class="col-sm-4">
 			<h3>Post Event</h3>
 			<blockquote>
-				<a href="shanar_janti.php"><p>14<i>-</i>5<i>-</i>2016 ಶಂಕರ ಜಯಂತಿ</p></a>
-				<footer>ನವೀಕೃತ ಹೊಯ್ಸಳ ಭವನ</footer>
+				<a href="mahilasnehakuta.php"><p>3<i>-</i>12<i>-</i>2017 ರಾಜ್ಯಮಟ್ಟದ ಹೊಯ್ಸಳ ಮಹಿಳಾ ಸ್ನೇಹಕೂಟ ಸಮಾರಂಭ</p></a>
+				 <footer>ಸಂಘದ ಆವರಣ</footer>
 			</blockquote>
 			<blockquote>
-				<a href="cvsy.php" ><p>19<i>-</i>6<i>-</i>2016 ಚಾಮುಂಡಿ ವೃಕ್ಷ ಸಂವರ್ದಿನಿ ಯೋಜನ</p></a>
-				<footer>ಚಾಮುಂಡಿ ಬೆಟ್ಟ</footer>
-			</blockquote>
-			<blockquote>
-				<a href="sks.php"><p>24<i>-</i>7<i>-</i>2016 ಸಾಂಸ್ಕೃತಿಕ ಮತ್ತು ಕ್ರೀಡಾ ಸ್ಪರ್ಧೆಗಳು</p></a>
+				<a href="new_year.php"><p>1<i>-</i>1<i>-</i>2017 ಹೊಸ ವರ್ಷದ ಆಚರಣೆ.</p></a>
 				 <footer>ಹೊ. ಕ. ಸಂಘ ಮುಖ್ಯ ಕಟ್ಟಡ</footer>
-			</blockquote>
-			<blockquote>
-				<a href="sks.php"><p>31<i>-</i>7<i>-</i>2016 ಸಂಸ್ಥಾಪಕರ ದಿನಾಚರಣೆ ಹಾಗೂ ಹೊಯ್ಸಳ ಹಬ್ಬ</p></a>
-				 <footer>ಶಾರದ ವಿಳಾಸ ಕಾಲೇಜು ಆವರಣ</footer>
-			</blockquote>
-			<blockquote>
-				<a href="ganapati.php"><p>11<i>-</i>09<i>-</i>2016 ಶ್ರೀ ಮಹಾಗಣಪತಿಯ ಮಂಗಳಾರತಿ ಕಾರ್ಯಕ್ರಮ </p></a>
-				 <footer>ನವೀಕೃತ ಹೊಯ್ಸಳ ಭವನ</footer>
 			</blockquote>
 			<blockquote>
 				<a href="drawing_comp.php"><p>10<i>-</i>12<i>-</i>2016 ಚಿತ್ರ ಕಲಾ ಸ್ಪರ್ಧೆ </p></a>
 				 <footer>ಶ್ರೀ ಶ್ರೀ ಚಂದ್ರಶೇಖರೇಂದ್ರ ಸರಸ್ವತಿ ಶತಮಾನೋತ್ಸವ ಭವನ</footer>
 			</blockquote>
 			<blockquote>
-				<a href="new_year.php"><p>1<i>-</i>12<i>-</i>2017 ಹೊಸ ವರ್ಷದ ಆಚರಣೆ.</p></a>
+				<a href="ganapati.php"><p>11<i>-</i>09<i>-</i>2016 ಶ್ರೀ ಮಹಾಗಣಪತಿಯ ಮಂಗಳಾರತಿ ಕಾರ್ಯಕ್ರಮ </p></a>
+				 <footer>ನವೀಕೃತ ಹೊಯ್ಸಳ ಭವನ</footer>
+			</blockquote>
+			<blockquote>
+				<a href="sks.php"><p>31<i>-</i>7<i>-</i>2016 ಸಂಸ್ಥಾಪಕರ ದಿನಾಚರಣೆ ಹಾಗೂ ಹೊಯ್ಸಳ ಹಬ್ಬ</p></a>
+				 <footer>ಶಾರದ ವಿಳಾಸ ಕಾಲೇಜು ಆವರಣ</footer>
+			</blockquote>
+			<blockquote>
+				<a href="sks.php"><p>24<i>-</i>7<i>-</i>2016 ಸಾಂಸ್ಕೃತಿಕ ಮತ್ತು ಕ್ರೀಡಾ ಸ್ಪರ್ಧೆಗಳು</p></a>
 				 <footer>ಹೊ. ಕ. ಸಂಘ ಮುಖ್ಯ ಕಟ್ಟಡ</footer>
 			</blockquote>
+			<blockquote>
+				<a href="cvsy.php" ><p>19<i>-</i>6<i>-</i>2016 ಚಾಮುಂಡಿ ವೃಕ್ಷ ಸಂವರ್ದಿನಿ ಯೋಜನ</p></a>
+				<footer>ಚಾಮುಂಡಿ ಬೆಟ್ಟ</footer>
+			</blockquote>
+			<blockquote>
+				<a href="shanar_janti.php"><p>14<i>-</i>5<i>-</i>2016 ಶಂಕರ ಜಯಂತಿ</p></a>
+				<footer>ನವೀಕೃತ ಹೊಯ್ಸಳ ಭವನ</footer>
+			</blockquote>
+			
+			
+			
+			
+						
+
 		</div>
 		<div class="col-sm-4">
 			<h3>Upcoming Event</h3>
